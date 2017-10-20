@@ -1,3 +1,6 @@
+//Diana Ivonee Huitzil Sosa
+//20 de octubre, 2016
+//lo que hace es darnos el factorial del numero N que damos cuando nos pregunta "dame un numero" 
 #include<iostream>
 using namespace std;
 int main ()
